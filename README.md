@@ -1,2 +1,3 @@
 # keiretsu_party
 COMP4970 Unity Project
+*****ALL FILES IN THE LIBRARY BRANCH ARE IN THE LIBRARY FOLDER*****
